@@ -9,7 +9,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 authors = [
-    { name = "Alice Bob", email = "yourname@hs-duesseldorf.de" }
+    { name = "Kardelen Atin", email = "kardelen.atin@study.hs-duesseldorf.de" }
 ]
 classifiers = [
     "Development Status :: 2 - Pre-Alpha",
